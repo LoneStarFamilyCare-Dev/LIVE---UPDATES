@@ -1,11 +1,15 @@
 {
-  "id": "unique-message-id",
-  "title": "Holiday Hours",
-  "message": "The clinic will be closed Friday and Monday.",
-  "priority": "important",
-  "startsAt": "2026-11-20T06:00:00Z",
-  "endsAt": "2026-11-30T06:00:00Z",
-  "showAsPopup": true,
-  "actionTitle": "Call Clinic",
-  "actionURL": "tel:+12142163015"
+  "announcements": [
+    {
+      "id": "holiday-hours-thanksgiving-2026",
+      "title": "Thanksgiving Holiday Hours",
+      "message": "The clinic will be closed Thursday, November 26 and Friday, November 27. Regular hours resume Monday, November 30.",
+      "priority": "important",
+      "startsAt": "2026-11-20T06:00:00Z",
+      "endsAt": "2026-11-30T06:00:00Z",
+      "showAsPopup": true,
+      "actionTitle": "Call Clinic",
+      "actionURL": "tel:+12142163015"
+    }
+  ]
 }
