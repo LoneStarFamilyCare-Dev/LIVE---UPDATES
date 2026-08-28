@@ -9,7 +9,7 @@
       "endsAt": "2026-09-01T00:00:00Z",
       "showAsPopup": true,
       "actionTitle": "Call Clinic",
-      "actionURL": "tel:+12142163015"
+      "actionURL": "tel:+12142163015",
       "sendNotification": true,
       "notificationTitle": "Fatty alert",
       "notificationMessage": "if youre reading this u need to put down the fork."
