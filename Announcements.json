@@ -2,10 +2,10 @@
   "announcements": [
     {
       "id": "test-popup-2026-08-27",
-      "title": "Test Announcement",
-      "message": "New feature basically lets u do live-ish announcements...i just have to edit this file and yeah it'll show an announcement and send a notification if i want it to. notification is optional ",
+      "title": "CLINIC HOURS - Week of December 21st",
+      "message": "Televisits (Online) only on December 21st and 22nd. Office will be closed December 21st and 22nd. Regular clinic hours resume December 24th.",
       "priority": "important",
-      "startsAt": "2026-08-27T00:00:00Z",
+      "startsAt": "2026-08-28T00:00:00Z",
       "endsAt": "2026-09-01T00:00:00Z",
       "showAsPopup": true,
       "actionTitle": "Call Clinic",
