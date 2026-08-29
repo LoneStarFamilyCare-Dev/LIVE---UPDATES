@@ -11,8 +11,8 @@
       "actionTitle": "Call Clinic",
       "actionURL": "tel:+12142163015",
       "sendNotification": true,
-      "notificationTitle": "this is a test",
-      "notificationMessage": "sorry."
+      "notificationTitle": "Clinic online only on 12/21 and 12/22",
+      "notificationMessage": "Clinic will not be open in person on Monday December 21st and Tuesday December 22nd. Online televisits will remain open. Regular operations resume Thursday 12/24!"
     }
   ]
 }
