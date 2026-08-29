@@ -11,7 +11,7 @@
       "actionURL": "tel:+12142163015",
       "sendNotification": true,
       "notificationTitle": "Clinic online only on 12/21 and 12/22",
-      "notificationMessage": "The clinic will be closed for in-person visits on Monday, December 21st, and Tuesday, December 22nd. Online televisits will remain available. Regular clinic operations will resume on Thursday, December 24th."
+      "notificationMessage": "The clinic will be closed for in-person visits on Monday, December 21st, and Tuesday, December 22nd. Online televisits will remain available. Regular clinic operations will resume on Thursday, December 24th.",
     }
   ]
 }
