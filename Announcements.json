@@ -3,8 +3,7 @@
     {
       "id": "test-popup-2026-08-27",
       "title": "CLINIC HOURS - Week of December 21st",
-      "message": "Televisits (Online) only on December 21st and 22nd. Office will be closed December 21st and 22nd. Regular clinic hours resume December 24th.",
-      "priority": "important",
+      "message": "The office will be closed on December 21st and 22nd. Televisits will still be available on those dates. Regular in-office clinic hours will resume on December 24th."      "priority": "important",
       "startsAt": "2026-08-28T00:00:00Z",
       "endsAt": "2026-09-01T00:00:00Z",
       "showAsPopup": true,
@@ -12,7 +11,7 @@
       "actionURL": "tel:+12142163015",
       "sendNotification": true,
       "notificationTitle": "Clinic online only on 12/21 and 12/22",
-      "notificationMessage": "Clinic will not be open in person on Monday December 21st and Tuesday December 22nd. Online televisits will remain open. Regular operations resume Thursday 12/24!"
+      "notificationMessage": "The clinic will be closed for in-person visits on Monday, December 21st, and Tuesday, December 22nd. Online televisits will remain available. Regular clinic operations will resume on Thursday, December 24th."
     }
   ]
 }
