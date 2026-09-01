@@ -2,7 +2,7 @@
   "announcements": [
     {
       "id": "clinic-hours-test-2026-08-30-v2",
-      "title": "CLINIC HOURS - Week of December 21st",
+      "title": "CLINIC HOURS - Closed Decemeber 21st and 22nd",
       "message": "The office will be closed on December 21st and 22nd. Televisits will still be available on those dates. Regular in-office clinic hours will resume on December 24th.",
       "startsAt": "2026-08-30T00:00:00Z",
       "endsAt": "2026-09-05T00:00:00Z",
@@ -10,8 +10,8 @@
       "actionTitle": "Call Clinic",
       "actionURL": "tel:+12142163015",
       "sendNotification": true,
-      "notificationTitle": "Clinic online only on 12/21 and 12/22",
-      "notificationMessage": "The clinic will be closed for in-person visits on Monday, December 21st, and Tuesday, December 22nd. Online televisits will remain available. Regular clinic operations will resume on Thursday, December 24th."
+      "notificationTitle": "Clinic online only on 12/21 and 12/22 - IN person closure",
+      "notificationMessage": "The clinic will be CLOSED for in-person visits on Monday, December 21st, and Tuesday, December 22nd. Online televisits will remain available. Regular clinic operations will resume on Thursday, December 24th."
     }
   ]
 }
