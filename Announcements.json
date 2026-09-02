@@ -2,7 +2,7 @@
   "announcements": [
     {
       "id": "clinic-hours-test-2026-08-30-v2",
-      "title": "Closed Decemeber 21st and 22nd",
+      "title": "Closed Dec 21st and 22nd",
       "message": "The clinic will be closed on December 21st and 22nd. Televisits will still be available on those dates. Regular in-office clinic hours will resume on December 24th.",
       "startsAt": "2026-08-30T00:00:00Z",
       "endsAt": "2026-09-05T00:00:00Z",
