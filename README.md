@@ -1,2 +1,2 @@
 # LIVE---UPDATES
-Live notification and updates
+Live notifications control
